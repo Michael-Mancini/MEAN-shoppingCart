@@ -1,0 +1,6 @@
+/node_modules
+
+/crud-backend/node_modules
+
+/crud-frontend/node_modules
+/crud-frontend/e2e
